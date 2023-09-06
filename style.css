@@ -17,6 +17,7 @@ body {
     height: 611px;
     border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
+    box-shadow: 0 10px 10px hsl(30, 38%, 82%);
 }
 
 .image-container {
