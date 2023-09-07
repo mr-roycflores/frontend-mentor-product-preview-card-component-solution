@@ -59,7 +59,7 @@ I have much to learn about responsive web design and will continue to learn more
 
 ### Useful resources
 
-- [W3Schools](https://www.w3schools.com) - This website has been very usefull for me.
+- [W3Schools](https://www.w3schools.com) - This website has been very useful to me.
 
 ## Author
 
